@@ -1,0 +1,24 @@
+# Resume-Job Description Matching System
+# Core dependencies
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# NLP & Text Processing
+nltk==3.8.1
+scikit-learn==1.4.0
+
+# Data Handling
+pandas==2.1.4
+numpy==1.26.3
+
+# PDF Processing (for resume uploads)
+PyPDF2==3.0.1
+
+# Testing
+pytest==7.4.4
+
+# Production
+python-dotenv==1.0.0

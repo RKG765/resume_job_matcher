@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+*.env.local
+
+# Data files (keep structure)
+data/raw/*
+data/processed/*
+data/uploads/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/uploads/.gitkeep
+!data/sample/
+
+# Electron
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+*.egg-info/
+dist/
+build/
