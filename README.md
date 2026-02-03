@@ -4,7 +4,7 @@ An **Information Retrieval system** that matches resumes to job descriptions, ra
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)
-![Electron](https://img.shields.io/badge/Electron-28.0-9cf.svg)
+![ReactJs](https://img.shields.io/badge/React.svg)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)
 
 ---
