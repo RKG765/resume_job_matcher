@@ -20,7 +20,7 @@ An **Information Retrieval system** that matches resumes to job descriptions, ra
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure #will update this later
 
 ```
 resume_job_matcher/
@@ -70,7 +70,7 @@ python main.py
 
 Backend runs at: `http://127.0.0.1:5000`
 
-### Option 2: Run with Electron (Desktop App)
+### Option 2: Run Frontend (Reactjs)
 
 ```bash
 # 1. Start backend first (in one terminal)
@@ -78,10 +78,10 @@ cd resume_job_matcher
 .\venv\Scripts\activate
 python main.py
 
-# 2. Run Electron (in another terminal)
+# 2. Run  (in another terminal)
 cd frontend
-npm install
-npm start
+npm install || npm ci
+npm run dev
 ```
 
 ### Option 3: Docker (for AWS Deployment)
