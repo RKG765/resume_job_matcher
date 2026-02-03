@@ -208,4 +208,4 @@ Output: `frontend/dist/Resume Job Matcher Setup.exe`
 
 ## 📝 License
 
-MIT License - Free for educational use.
+Will update this later.
